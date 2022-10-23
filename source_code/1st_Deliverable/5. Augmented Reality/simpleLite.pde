@@ -3,10 +3,6 @@
  * (c)2008-2017 nyatla
  * airmail(at)ebony.plala.or.jp
  * 
- * 最も短いARToolKitのコードです。
- * Hiroマーカの上に立方体を表示します。
- * 全ての設定ファイルとマーカファイルはスケッチディレクトリのlibraries/nyar4psg/dataにあります。
- * 
  * This sketch is shortest sample.
  * The sketch shows cube on the marker of "patt.hiro".
  * Any pattern and configuration files are found in libraries/nyar4psg/data inside your sketchbook folder. 
@@ -36,7 +32,7 @@ void draw()
   cam.read();
   nya.detect(cam);
  
-  nya.drawBackground(cam);//frustumを考慮した背景描画
+  nya.drawBackground(cam);
   if((!nya.isExist(0))){
     return;
   }
