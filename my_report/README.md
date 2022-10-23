@@ -6,7 +6,8 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://ebabouraki.github.io/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/ 
 
 # Introduction
-
+1. (**Video Capture**)
+- Αρχικά άνοιξα την εφαρμογή **Processing** και από τη γωνία δεξιά πάτησα το ***Java*** και έκανα **προσθήκη κατάστασης**. Άνοιξε το **contribution manager** πήγα στις **βιβλιοθήκες** και έκανα εγκατασταση και προσθήκη της: **Video Library for Processing 3**. Μετά έκανα αντιγραφή τον κώδικα του παραδείγματος **16-1** από το βιβλίο **Learning Processing, 2nd Edition**. Επίσης έκανα μεγαλύτερο το μέγεθος του παραθύρου που εμφάνιζε η κάμερα όπως δείξαμε και στο εργαστήριο με την εντολή `size`. 
 # Summary
 
 
