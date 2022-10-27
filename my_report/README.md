@@ -14,9 +14,9 @@
 
 2. (**Recorded video**)
 - Αρχικά τράβηξα ένα **speed up** βίντεο με το κινητό και έκανα **επεξεργασία** για να έχει διάρκεια 10sec. Στη συνέχεια έφτιαξα ένα φάκελο `data`μέσα στον φάκελο που έχω αποθηκεύσει το κώδικα και πρόσθεσα το βίντεο. Μετά έκανα αντιγραφή τον κώδικα του παραδείγματος **16-4** από το βιβλίο **Learning Processing, 2nd Edition**. Για τον έλεγχο της ταχύτητας με το ποντίκι και την εμφάνιση της ταχύτητας στην οθόνη πήρα βοήθεια απο [εδώ](https://forum.processing.org/one/topic/video-playback-and-mouse-x-y-cordinate-question.html)  και τέλος άλλαξα το `size` του παραθύρου ώστε να φαίνεται μεγαλύτερο το μέγεθος του παραθύρου.
-- ###SLow down motion
+- ### SLow down motion
 ![Video_Recorded_1](https://user-images.githubusercontent.com/100956280/198410930-9154c4d8-a93f-4311-b0ed-39d3f34892f6.png)
-- ###Speed up motion
+- ### Speed up motion
 ![Video_Recorded_3](https://user-images.githubusercontent.com/100956280/198410944-cc6bc2c4-fd8d-40e8-a191-444378c4c32a.png)
 
 3. (**QR Code**)
