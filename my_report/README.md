@@ -6,6 +6,13 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://ebabouraki.github.io/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/ 
 
 # Introduction
+
+
+# Summary
+
+
+# 1st Deliverable
+
 1. (**Video Capture**)
 - Αρχικά άνοιξα την εφαρμογή **Processing** και από τη γωνία δεξιά πάτησα το **Java** και έκανα `Προσθήκη καταστασης` Άνοιξε το `Contribution Manager` πήγα στις `Βιβλιοθήκες` και έκανα εγκατασταση και προσθήκη της:`Video Library for Processing 3`. Μετά έκανα αντιγραφή τον κώδικα του παραδείγματος **16-1** από το βιβλίο **Learning Processing, 2nd Edition**. Επίσης έκανα μεγαλύτερο το μέγεθος του παραθύρου που εμφάνιζε η κάμερα όπως δείξαμε και στο εργαστήριο με την εντολή `size`. 
 ![VideoCapture](https://user-images.githubusercontent.com/100956280/198410907-de0b8f3c-207f-4637-aba8-c2c14d5cb26a.png)
@@ -42,10 +49,6 @@ Uploading qrcode.mp4…
 ![Augmented_reality](https://user-images.githubusercontent.com/100956280/198411054-156eb99f-ff10-43c4-9b26-ff9ee09b7ab8.png)
 
 
-# Summary
-
-
-# 1st Deliverable
 
 
 # 2nd Deliverable
