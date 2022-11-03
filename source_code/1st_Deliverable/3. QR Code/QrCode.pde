@@ -1,32 +1,20 @@
-PImage img; 
 import qrcodeprocessing.*;
+PImage img;
 Decoder decoder;
 
-void setup() {
- decoder = new Decoder(this);
- size(400, 400);
- img = loadImage("qrcode.png");
+void setup(){
+  size(250,250);
+  img = loadImage("qrcode.png");
+  decoder = new Decoder(this);
+  decoder.decodeImage(img);
 }
 
-void draw() {
- background(0);
- image(img, 0, 0, 400, 400); 
- decoder.decodeImage(img);
+void decoderEvent(Decoder decoder){
+  String statusMsg = decoder.getDecodedString();
+  println(statusMsg);
+  link(statusMsg);}
+
+void draw(){
+  image(img, 0, 0, width, height);
 }
-
-void decoderEvent(Decoder decoder) {
-  String statusMsg = decoder.getDecodedString(); 
-
-}
-
-void keyReleased() {
-  // Depending on which key is hit, do different things:
-  switch (key) {
-  case ' ' :    
-    link(decoder.getDecodedString());
-    break;
-  }
-}
-
-
 
