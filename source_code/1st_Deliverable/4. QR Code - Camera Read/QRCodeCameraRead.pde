@@ -4,8 +4,7 @@ QRcode reader
  http://qrcode.kaywa.com/ and put them in this sketch's
  data folder.
  Press spacebar to read from the camera, generate an image,
- and scan for barcodes.  Press f to read from a file and scan.
- Press s for camera settings.
+ and scan for barcodes.  
  Created 9 June 2007
  by Tom Igoe / Daniel Shiffman
  */
@@ -71,11 +70,5 @@ void keyReleased() {
     link(statusMsg);
    
     break;
-  case 'f':    // f runs a test on a file
-    PImage preservedFrame = loadImage("qrcode.png");
-    // Decode file
-    decoder.decodeImage(preservedFrame);
-    link(statusMsg);
-    break;
-  }
+
 }
