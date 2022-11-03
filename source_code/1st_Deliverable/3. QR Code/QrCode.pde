@@ -3,7 +3,7 @@ PImage img;
 Decoder decoder;
 
 void setup(){
-  size(250,250);
+  size(800,800);
   img = loadImage("qrcode.png");
   decoder = new Decoder(this);
   decoder.decodeImage(img);
