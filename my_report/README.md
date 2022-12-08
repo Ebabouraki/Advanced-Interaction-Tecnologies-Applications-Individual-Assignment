@@ -47,7 +47,7 @@
 
 
 
-# 2nd Deliverable1.
+# 2nd Deliverable.
 
 
 1. (**Background Removal**)
