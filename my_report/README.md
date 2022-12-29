@@ -132,7 +132,10 @@ https://user-images.githubusercontent.com/100956280/206462031-0e962867-6d91-4104
 
 - Σε αυτό το βίντεο φένεται πως λειτουργέι με τη χρήση του Simulator:
 
-https://user-images.githubusercontent.com/100956280/209966239-d1324f8c-3e8c-4413-ba5f-49476ffe9bed.mp4
+
+https://user-images.githubusercontent.com/100956280/209968693-1f37875d-3142-40e2-a984-08558199c187.mp4
+
+
 
 - Τέλος κατέβασα την εφαρμογή reacTIVision vision engine από [εδώ](https://reactivision.sourceforge.net) και έτρεξα τον ίδιο κώδικα κάνοντας χρήση της μηχανής υπολογιστικής όρασης reacTIVision που εγκαταστήσα  που  χρησιμοποιεί την κάμερα για την αναγνώριση και παρακολούθηση των κωδικών fiducials. 
 
@@ -143,6 +146,8 @@ https://user-images.githubusercontent.com/100956280/209966239-d1324f8c-3e8c-4413
 
 
 
+  Σε ποια φάση της σχεδίασης και ανάπτυξης του υλικό/λογισμικού της διάδρασης θα διαλέγατε την κανονική κάμερα ή τον προσομοιωτή
+  
  
  
    
