@@ -163,12 +163,18 @@ https://user-images.githubusercontent.com/100956280/210010933-7e3b133e-bd04-4eaa
 
 # Bonus 
 Σε συνεργασία: 
+
 First and Last Name: Konstantinos Karyotis
+
 University Registration Number: dpsd19049
+
 GitHub Personal Profile: https://github.com/dpsd19049
+
 Advanced Interaction Tecnologies & Applications Github Personal Repository: https://github.com/dpsd19049/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
+
  - Αρχικά για την εγκατάσταση της κάμερας, ακολουθήσαμε τις οδηγίες από [εδώ](http://articlesbyaphysicist.com/simpleopenni_windows.html) και τα βήματα 1-11 του παραδοτέου Bonus στο Github . Επιπλέον, αφού άναψε το πράσινο λαμπάκι της κάμέρας δοκιμάσαμε κάποια έτοιμα παραδείγματα για να σιγουρευτούμε ότι εγκαταστήθηκε σωστά η κάμερα.Στη συνέχεια, κατεβάσαμε την βιβλιοθήκη SimpleOpenNI.
+ 
  
 Bonus 1 deliverable 1:
 
