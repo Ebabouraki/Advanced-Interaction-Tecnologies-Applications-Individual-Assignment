@@ -6,7 +6,8 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://ebabouraki.github.io/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/ 
 
 # Introduction
-
+- Processing
+- Kinect
 
 # Summary
 Σκοπός μέσω των παραδοτέων, είναι η απόκτηση εμπειρίας στη γλώσσα προγραμματισμου processing και διαχείριση κωδικοποίησης για την επίτευξη συγκεκριμένων στόχων που έχουν τεθεί να υλοποιηθούν για το μάθημα των προηγμένων τεχνολογιών αλληλεπίδρασης.
@@ -161,6 +162,11 @@ https://user-images.githubusercontent.com/100956280/210010933-7e3b133e-bd04-4eaa
 
 
 # Bonus 
+Σε συνεργασία: 
+First and Last Name: Konstantinos Karyotis
+University Registration Number: dpsd19049
+GitHub Personal Profile: https://github.com/dpsd19049
+Advanced Interaction Tecnologies & Applications Github Personal Repository: https://github.com/dpsd19049/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
  - Αρχικά για την εγκατάσταση της κάμερας, ακολουθήσαμε τις οδηγίες από [εδώ](http://articlesbyaphysicist.com/simpleopenni_windows.html) και τα βήματα 1-11 του παραδοτέου Bonus στο Github . Επιπλέον, αφού άναψε το πράσινο λαμπάκι της κάμέρας δοκιμάσαμε κάποια έτοιμα παραδείγματα για να σιγουρευτούμε ότι εγκαταστήθηκε σωστά η κάμερα.Στη συνέχεια, κατεβάσαμε την βιβλιοθήκη SimpleOpenNI.
  
@@ -196,6 +202,20 @@ https://user-images.githubusercontent.com/100956280/212210626-9eacdd38-300a-440e
 
 
 # Conclusions
-
+Η διαδικασία υλοποίησης των παραπάνω παραδοτέων πραγματοποιήθηκε έπειτα από πολύωρη προσπάθεια και μετά από πολλές δοκιμές και αλλαγες στον κώδικα.
 
 # Sources
+
+- https://forum.processing.org/one/topic/video-playback-and-mouse-x-y-cordinate-question.html
+- https://www.qrcode-monkey.com/
+- https://processing.org/examples/embeddedlinks.html
+- https://processing.org/examples/embeddedlinks.html
+- https://www.pexels.com/video/slow-motion-of-waterfalls-in-forest-12009024/
+- https://sourceforge.net/projects/reactivision/files/TUIO%201.1/TUIO-Clients%201.1.5/TUIO11_Processing-1.1.5.zip/download?use_mirror=netix&download=
+- https://sourceforge.net/projects/reactivision/files/TUIO%201.0/TUIO-Clients%201.4/TUIO_Simulator-1.4.zip/download?use_mirror=deac-fra&download=
+- https://processing.org/reference/tint_.html
+- https://forum.processing.org/one/topic/zooming-in-and-zooming-out.html
+- https://processing.org/reference/map_.html
+- http://articlesbyaphysicist.com/simpleopenni_windows.html
+- http://articlesbyaphysicist.com/simpleopenni_windows_2.html
+
